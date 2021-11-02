@@ -1,4 +1,4 @@
-- 👋 Hi, I’m justin
+- 👋 Hi, mu name is justin
 - 👀 I’m interested in (ui/ux design)
 - 🌱 I’m currently learning (ux/ui design)
 - 💞️ I’m looking to collaborate on (ui/ux designer/front end/back end programmer)
